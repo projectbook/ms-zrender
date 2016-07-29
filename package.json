@@ -1,0 +1,9 @@
+{
+  "description": "A lightweight canvas library. 为临时解决百度 ECharts 缩放后 鼠标位置不对的bug",
+  "license": "BSD",
+  "main": "lib/zrender.js",
+  "name": "ms-zrender",
+  "readme": "ERROR: No README data found!",
+  "scripts": {},
+  "version": "4.0.0"
+}
